@@ -2,7 +2,7 @@
  
 - This app allow you to add or delete or edit books .
 
-> first you should run app and firfox of any website ,enter this link "localhost:8060" .
+> first you should run app and open firfox or any website ,enter this link "localhost:8060" .
 
 This link take you to home page ,in nav bar you find links :
 
